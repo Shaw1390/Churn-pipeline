@@ -59,7 +59,7 @@ Dashboards
 | Clients scored | 10,000 | 6.35M |
 | Flagged high-risk (≥0.5) | 916 | 474,680 |
 
-![Churn and fraud risk distributions](images/Screenshot 2026-09-20 220431.jpg)
+![Churn and fraud risk distributions](https://github.com/Shaw1390/Churn-pipeline/blob/main/images/Screenshot%202026-09-20%20220431.jpg)
 
 ## Known limitations & next steps
 
