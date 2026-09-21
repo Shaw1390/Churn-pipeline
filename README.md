@@ -59,8 +59,7 @@ Dashboards
 | Clients scored | 10,000 | 6.35M |
 | Flagged high-risk (≥0.5) | 916 | 474,680 |
 
-![Churn and fraud risk distributions](images/churn-risk-distribution.png)
-![Bank Risk Scorecard dashboard](images/dashboard-overview.png)
+![Churn and fraud risk distributions](images/Screenshot 2026-09-20 220431.jpg)
 
 ## Known limitations & next steps
 
